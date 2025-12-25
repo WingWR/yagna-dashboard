@@ -9,7 +9,7 @@
         "@mui/material": "^6.1.0",
         "@mui/x-data-grid": "^7.17.0",
         "bignumber.js": "=9.1.2",
-        "ethers": "^5.5",
+        "ethers": "^6.16.0",
         "luxon": "^3.0",
         "react": "^18.2",
         "react-dom": "^18.2",
